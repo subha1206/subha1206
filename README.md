@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on React SPA
+- 🌱 I’m currently learning FULL-STACK JS
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything, happy to help
+- 📫 How to reach me: Github and personal site at https://subhasarkar.me/
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **subha1206/subha1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
