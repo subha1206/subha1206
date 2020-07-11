@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on React SPA
+- 🔭 I’m currently working on Frontend/REACT
 - 🌱 I’m currently learning FULL-STACK JS
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
