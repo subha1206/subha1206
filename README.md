@@ -2,7 +2,7 @@
 
 ## I'm a Thinker, Developer, and Teacher!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a Blog Platform!
 - 🌱 I’m currently learning Node
 - 👯 I’m looking to collaborate with other dev
 - 🥅 2020 Goals: Learn Backend
