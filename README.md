@@ -1,6 +1,6 @@
 ### Hi there, I'm Subha Sarkar 👋
 
-## I'm a Thinker, Developer, and Teacher!
+## I'm a Thinker, Developer, and Learner!
 
 - 🔭 I’m currently working on a Blog Platform!
 - 🌱 I’m currently learning Node
