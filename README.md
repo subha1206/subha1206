@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on a Blog Platform!
 - 🌱 I’m currently learning Node
-- 👯 I’m looking to collaborate with other dev
 - ⚡ Fun fact: I love to play cricket
 
 <!-- ### Connect with me:
